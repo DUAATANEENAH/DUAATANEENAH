@@ -1,20 +1,21 @@
 ### Hi there, I'm Dua'a! 👋
 
-I'm a **Senior Backend Engineer** with over 6 years of professional experience specializing in scalable architecture, Node.js, and TypeScript, currently expanding my expertise into **AI Engineering, Machine Learning, and Python**.
+I'm a **Senior Backend Engineer** with over 6 years of professional experience specializing in scalable architecture, microservices, Node.js, and NestJS, currently expanding my expertise into **AI Engineering, Machine Learning, and Python**.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
-* **Languages & Core:** TypeScript, JavaScript, Python, SQL
-* **Backend & APIs:** Node.js, NestJS, FastAPI, Django, REST APIs, Microservices
-* **Databases & Caching:** PostgreSQL, Redis, Prisma ORM
-* **Cloud, DevOps & Queues:** Docker, RabbitMQ, BullMQ, Git/GitHub
-* **Data & AI:** Pandas, TensorFlow, Keras, Retrieval-Augmented Generation (RAG)
+* **Backend:** Node.js, NestJS, TypeScript, REST APIs, Microservices, Event-Driven Architecture, Prisma ORM
+* **Queues & Caching:** RabbitMQ, BullMQ, Redis
+* **Databases:** PostgreSQL, MySQL, MongoDB
+* **Cloud & DevOps:** Docker, CI/CD, Git, Bitbucket
+* **Testing & Security:** Jest, Unit/Integration Testing, JWT, OAuth2, RBAC, Network Security
+* **AI & Automation:** LLM API Integration (OpenAI, Claude, Gemini), AI-Powered Workflows, Prompt Engineering, Python, TensorFlow
 
 ---
 
 ### 🚀 Featured Projects
-* **[nestjs-ai-reporting-engine](https://github.com/DUAATANEENAH/nestjs-ai-reporting-engine)**: An advanced backend reporting service utilizing TypeScript and NestJS integrated with AI workflows.
+* **[nestjs-ai-reporting-engine](https://github.com/DUAATANEENAH/nestjs-ai-reporting-engine)**: A scalable NestJS backend for uploading and processing CSV reports asynchronously with BullMQ, Redis, PostgreSQL/Prisma, and AI-powered analysis via LLM APIs with real-time WebSocket updates.
 * **[Ecommerce_project_analysis](https://github.com/DUAATANEENAH/Ecommerce_project_analysis)**: End-to-end exploratory data analysis and ML-ready feature engineering pipeline built with Python and Jupyter Notebooks.
 
 ---
