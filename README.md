@@ -1,6 +1,6 @@
 ### Hi there, I'm Dua'a! 👋
 
-I'm a **Senior Backend Engineer** with over 6 years of professional experience specializing in scalable architecture, microservices, Node.js, and NestJS, currently expanding my expertise into **AI Engineering, Machine Learning, Data Analysis, and Python**..
+I'm a **Senior Backend Engineer** with over 6 years of professional experience specializing in scalable architecture, microservices, Node.js, and NestJS, currently expanding my expertise into **AI Engineering, Machine Learning, Data Analysis, and Python**, while providing professional **Data Analysis & AI Solutions for Businesses**.
 
 ---
 
@@ -14,6 +14,14 @@ I'm a **Senior Backend Engineer** with over 6 years of professional experience s
 * **AI & Automation:** LLM API Integration (OpenAI, Claude, Gemini), AI-Powered Workflows, Prompt Engineering, Python, TensorFlow
 
 ---
+
+### 💼 Services for Businesses
+
+* **Data Analysis & Business Intelligence:** Turning complex datasets into actionable insights using Python, SQL, and Power BI dashboards.
+* **AI & Automation Solutions:** Integrating intelligent workflows, RAG systems, and LLM APIs to optimize business processes.
+* **Scalable Backend Systems:** Architecting robust microservices and high-performance APIs.
+
+ --- 
 
 ### 🚀 Featured Projects
 * **[nestjs-ai-reporting-engine](https://github.com/DUAATANEENAH/nestjs-ai-reporting-engine)**: A scalable NestJS backend for uploading and processing CSV reports asynchronously with BullMQ, Redis, PostgreSQL/Prisma, and AI-powered analysis via LLM APIs with real-time WebSocket updates.
